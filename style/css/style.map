@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../sass/style.css",
+	"sources": [
+		"../sass/style.scss"
+	],
+	"sourcesContent": [
+		"\r\n$primary-color: #ba3ddd;\r\n$primary-font: helvetica, arial, sans-serif;\r\n$primary-margin: 30px;\r\n$p-opacity: .9;\r\n\r\nbody{\r\n  background:$primary-color;\r\n}\r\n\r\nh1{\r\n  color: lighten($primary-color, 20%);\r\n  font-family: $primary-font;\r\n}\r\n\r\np{\r\n  color: darken($primary-color, 20%);\r\n  font-family: $primary-font;\r\n  margin: $primary-margin;\r\n  opacity: $p-opacity;\r\n}\r\n\r\nmain{\r\n  h1{color:darken($primary-color, 20%);}\r\n}\r\n"
+	],
+	"mappings": ";AAMA,AAAA,IAAI,CAAA;EACF,UAAU,EANI,OAAO;CAOtB;;;AAED,AAAA,EAAE,CAAA;EACA,KAAK,EAAE,OAAO;EACd,WAAW,EAVE,SAAS,EAAE,KAAK,EAAE,UAAU;CAW1C;;;AAED,AAAA,CAAC,CAAA;EACC,KAAK,EAAE,OAAM;EACb,WAAW,EAfE,SAAS,EAAE,KAAK,EAAE,UAAU;EAgBzC,MAAM,EAfS,IAAI;EAgBnB,OAAO,EAfG,GAAE;CAgBb;;;AAED,AACE,IADE,CACF,EAAE,CAAA;EAAC,KAAK,EAAC,OAAM;CAAwB",
+	"names": []
+}

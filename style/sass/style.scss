@@ -1,0 +1,25 @@
+
+$primary-color: #ba3ddd;
+$primary-font: helvetica, arial, sans-serif;
+$primary-margin: 30px;
+$p-opacity: .9;
+
+body{
+  background:$primary-color;
+}
+
+h1{
+  color: lighten($primary-color, 20%);
+  font-family: $primary-font;
+}
+
+p{
+  color: darken($primary-color, 20%);
+  font-family: $primary-font;
+  margin: $primary-margin;
+  opacity: $p-opacity;
+}
+
+main{
+  h1{color:darken($primary-color, 20%);}
+}

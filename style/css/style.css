@@ -1,0 +1,25 @@
+/* line 7, C:/Users/Courtney/Documents/Applications/GitHub/tts/style/sass/style.scss */
+body {
+  background: #ba3ddd;
+}
+
+/* line 11, C:/Users/Courtney/Documents/Applications/GitHub/tts/style/sass/style.scss */
+h1 {
+  color: #d994ec;
+  font-family: helvetica, arial, sans-serif;
+}
+
+/* line 16, C:/Users/Courtney/Documents/Applications/GitHub/tts/style/sass/style.scss */
+p {
+  color: #7e1b99;
+  font-family: helvetica, arial, sans-serif;
+  margin: 30px;
+  opacity: 0.9;
+}
+
+/* line 24, C:/Users/Courtney/Documents/Applications/GitHub/tts/style/sass/style.scss */
+main h1 {
+  color: #7e1b99;
+}
+
+/*# sourceMappingURL=../css/style.map */
